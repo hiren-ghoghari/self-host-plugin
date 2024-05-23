@@ -3,7 +3,7 @@
  * Plugin Name:       Self Host Plugin
  * Plugin URI:        https://example.com/plugins/the-basics/
  * Description:       Handle the basics with this plugin.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Hiren Ghoghari
@@ -26,4 +26,4 @@
 //Set the branch that contains the stable release.
  $myUpdateChecker->setBranch('master');
 
- echo "version 1.0.0";
+ echo "version 1.1.0";
